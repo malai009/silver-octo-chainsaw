@@ -1,12 +1,12 @@
-# 🧠 Computer Vision Experiments with OpenCV & YOLO
+#  Computer Vision Experiments with OpenCV & YOLO
 
 This repository contains a collection of **computer vision experiments and mini-projects** implemented as part of my learning and exploration of image processing, object detection, and deep learning–based vision techniques.
 
 The scripts cover both **classical OpenCV techniques** and **deep learning approaches using YOLO**, focusing on building intuition and practical CV pipelines.
 
-## 📂 Repository Overview
+##  Repository Overview
 
-### 🔹 Classical Computer Vision (OpenCV)
+###  Classical Computer Vision (OpenCV)
 
 * **EdgeDetector.py**
   Implements edge detection techniques (Sobel / Canny) to highlight image boundaries and structural features.
@@ -18,7 +18,7 @@ The scripts cover both **classical OpenCV techniques** and **deep learning appro
   Performs color-based object detection using HSV color space and masking techniques.
 
 
-### 🔹 Face Processing
+###  Face Processing
 
 * **face_anonymizer.py**
   Detects faces in an image and anonymizes them using blurring.
@@ -27,7 +27,7 @@ The scripts cover both **classical OpenCV techniques** and **deep learning appro
   Real-time face anonymization using webcam video input.
 
 
-### 🔹 Image Classification & Segmentation using YOLO
+###  Image Classification & Segmentation using YOLO
 
 * **img_classify_yolo.py**
   Image classification using a pretrained YOLO model.
@@ -39,13 +39,13 @@ The scripts cover both **classical OpenCV techniques** and **deep learning appro
   Image segmentation using YOLO to extract object-level masks.
 
 
-### 🔹 Basic Image Classification
+###  Basic Image Classification
 
 * **Image_classification.py**
   A simple image classification pipeline used to understand the fundamentals of visual feature extraction and classification.
 
 
-## 🧠 Key Concepts Covered
+##  Key Concepts Covered
 
 * Image preprocessing and filtering
 * Edge detection and thresholding
@@ -55,7 +55,7 @@ The scripts cover both **classical OpenCV techniques** and **deep learning appro
 * Real-time video processing using OpenCV
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * Python
 * OpenCV
@@ -63,7 +63,7 @@ The scripts cover both **classical OpenCV techniques** and **deep learning appro
 * NumPy
 
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone the repository:
 
@@ -84,7 +84,7 @@ The scripts cover both **classical OpenCV techniques** and **deep learning appro
 > Some scripts require image/video input paths or a webcam.
 
 
-## 🎯 Purpose of This Repository
+##  Purpose of This Repository
 
 * Hands-on learning of computer vision concepts
 * Understanding both **traditional** and **deep learning–based** vision methods
