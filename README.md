@@ -92,14 +92,6 @@ The scripts cover both **classical OpenCV techniques** and **deep learning appro
 * Preparation for advanced CV tasks such as object tracking and edge deployment
 
 
-## 🚀 Future Work
-
-* Integrating detection + tracking pipelines
-* Performance optimization for edge devices (Raspberry Pi)
-* Object counting and motion analysis
-* Deployment-ready CV applications
-
-
-## 📄 Disclaimer
+##  Disclaimer
 
 This repository is intended for **educational and experimental purposes**.
