@@ -2,7 +2,6 @@
 # the algo moves through the image section by scection and computes a 
 # threshold value for each section
 import os
-import cv2
 import cv2 as cv
 
 img = cv2.imread(os.path.join('.', 'handwriten_letter.jpg'))
@@ -16,4 +15,5 @@ ret, thresh = cv2.adaptiveThreshold(gray_img,255,cv.ADAPTIVE_THRESH_MEAN_C,cv.TH
 cv2.imshow('frame', img)
 cv2.imshow('frame_gray', gray_img)
 cv2.imshow('frame_thresh', thresh)
+
 cv2.waitKey(0)
